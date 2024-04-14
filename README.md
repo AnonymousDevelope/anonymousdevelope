@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋       
+<!-- **Umumiy 30 ga yaqin proyektlar siz faqat Publiclarini ko'rishngiz mumkun** -->
 
 <!--
 **AnonymousDevelope/anonymousdevelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
